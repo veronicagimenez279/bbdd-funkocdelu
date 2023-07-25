@@ -1,6 +1,6 @@
 
 # Base de Datos Funko C del U
-Base de datos desarrollada con **PostgreSQL** para el proyecto final de las materia Taller de Integración y Bases de Datos.
+Base de datos desarrollada con **PostgreSQL** para el proyecto final de las materias Taller de Integración y Bases de Datos.
 
 
 ### Objetivo
